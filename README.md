@@ -1,6 +1,6 @@
 ## Conditional WGAN-GP (cWGAN-GP) in Keras ##
 
-**Conditional version of WGAN-GP** is the combination of [cgan](https://arxiv.org/abs/1411.1784) and [wgan-gp](https://arxiv.org/pdf/1704.00028). It can be used to generate samples of a particular class.
+**Conditional version of WGAN-GP** is the combination of [cgan](https://arxiv.org/pdf/1411.1784.pdf) and [wgan-gp](https://arxiv.org/pdf/1704.00028.pdf). It can be used to generate samples of a particular class.
 
 ### Datasets ###
 
