@@ -12,7 +12,7 @@ python3 cwgan_gp.py
 ### Result ###
 ![avatar](/images/sample_image.png)
 
-### Generate image of a specific class###
+### Generate image of a specific class ###
 Use the code *wgan.generate\_images(class\_names)*.
 
 ### Defining a new task for cWGAN-GP ###
